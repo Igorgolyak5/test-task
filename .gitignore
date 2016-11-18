@@ -1,0 +1,12 @@
+*.class
+.mtj.tmp/
+.idea/
+target/
+out/
+# Package Files #
+*.jar
+*.war
+*.ear
+*.iml
+*.iws
+*.zip
